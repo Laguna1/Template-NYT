@@ -1,7 +1,12 @@
 header {
-    position: fixed;
+    width: 100%;
     background-color: #00ffff;
     border: 1px solid black;
+}
+
+nav {
+    position: fixed;
+    
 }
 
 section {
