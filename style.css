@@ -1,0 +1,28 @@
+header {
+    position: fixed;
+    background-color: #00ffff;
+    border: 1px solid black;
+}
+
+section {
+    background-color: #8dc3c5;
+    border: 1px solid black;
+}
+
+article {
+    border: 2px solid red;
+}
+
+.one {
+    border: 2px solid red;  
+}
+
+footer {
+    background-color: #2e8b57;
+    border: 1px solid green;
+}
+
+.f1, .f2, .f3 {
+    border: 2px solid black;
+}
+
